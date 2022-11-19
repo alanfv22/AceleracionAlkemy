@@ -1,3 +1,5 @@
+This project is a copy of the project done by AlkemyTeam OT295 and Me https://github.com/alkemyTech/OT295-server.
+
 <table class="table">
   <thead>
     <tr>
